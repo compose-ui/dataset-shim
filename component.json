@@ -1,0 +1,9 @@
+{
+  "name": "dataset-shim",
+  "version": "1.0.0",
+  "repo": "compose-ui/dataset-shim",
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js"
+}
